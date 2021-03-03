@@ -1,6 +1,6 @@
 # Game-sales-data-visualization
 游戏销售数据可视化系统是基于python开发的一个游戏数据可视化的系统，游戏的销售数据来自一个data function这一个网站，将数据利用numpy和pandas处理完之后，再利用matplotlibtlib绘图，之后再利用thinker做出UI的界面。
-#说明
+# 说明
 设计内容及主要功能
 各地区销售分析：按平台销量对各个地区的销量进行展示
 各地区销售趋势：对各个地区的销量按照折线图进行展示
